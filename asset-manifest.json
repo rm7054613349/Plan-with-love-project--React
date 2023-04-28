@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//Plan-with-love-project--React/static/css/main.decdb0db.css",
+    "main.js": "//Plan-with-love-project--React/static/js/main.5f2628dd.js",
+    "static/js/787.633816a4.chunk.js": "//Plan-with-love-project--React/static/js/787.633816a4.chunk.js",
+    "index.html": "//Plan-with-love-project--React/index.html",
+    "main.decdb0db.css.map": "//Plan-with-love-project--React/static/css/main.decdb0db.css.map",
+    "main.5f2628dd.js.map": "//Plan-with-love-project--React/static/js/main.5f2628dd.js.map",
+    "787.633816a4.chunk.js.map": "//Plan-with-love-project--React/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.5f2628dd.js"
+  ]
+}
